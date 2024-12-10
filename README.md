@@ -1,7 +1,3 @@
-To enhance your content and make it more visually appealing, you can add icons and adjust the layout for readability. Here’s an improved version with icons for a more engaging and user-friendly design:
-
----
-
 # Generative Models by Stability AI
 ![sample1](assets/000.jpg)
 
